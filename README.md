@@ -28,3 +28,7 @@ It is built with [FastApi](https://fastapi.tiangolo.com/) and deployed on [Verce
     ```
 
 5. It's done. You can deploy it anywhere
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sarvesh4396/unshortener)
